@@ -1,20 +1,25 @@
 body {
     background-color:black;
     font-family:arial;
-    color:white
+    color:white;
 }
 
 h1{
     color:grey;
-    font-family:verdana
+    font-family:verdana;
 }
 
 .maindiv{
     background-color: white;
     color: black;
-    width: 300px;
+    width: 500px;
     padding: 20px;
     border-radius: 25px;
-    align-self: center;
 }
+
+table{
+    margin: auto;
+    padding: 10px;    
+}
+
 
